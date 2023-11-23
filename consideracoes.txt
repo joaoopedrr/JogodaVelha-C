@@ -1,0 +1,19 @@
+AQUI ESTÁ UM PROGRAMA DE JOGO DA VELHA.
+
+1- O programa é dividido em três arquivos: Principal, dois jogadores e contra o computador
+
+2- Para faze-lo o jogo foi feita uma vasta pesquisa de como fazer o jogo da velha e tinha várias diferenças de maneira de fazer, seja de contar "retur 1" e "return 2" para as jogadas correta e até mesmo fazer vários "if" das possibilidades de ganho de cada jogador.
+
+3- Pesquisei em vários vídeos no youtube, peguei exemplos de como eu poderia fazer e conversei em uma comunidade de linux que falava sobre jogos em C puro. Sendo assim que vive o programador, de muita comunicação e saber procurar informações pra na hora codar ter uma visão mais aberta de fazer um programa.
+
+4- A prática foi muita boa, praticamente fiquei 6 dias viradão nesse código.
+
+5- Na hora de codar eu e minha equipe achamos muitos erros, mas aos poucos fomos resolvendo kk
+
+6- Preferimos fazer em três arquivos pois é melhor na questão do aprendizado, pois você vai fazendo uma coisa por vez.
+
+7- Percebi também que a parte de fazer contra a máquina, era praticamente a mesma de jogar contra os dois usuários, só muda a parte de aleatorialização do jogador 2, assim conseguindo objetificar o número correspondente.
+
+8- O código foi trabalhado com bibliotecas que eu nunca vi
+
+9- Código feito no devc++ de IDE, sendo que foi subido pelo Vscode mesmo.
